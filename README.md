@@ -1,2 +1,2 @@
-# repo-grupo1
-Biografia de Freddie mercury
+# Repositorio-Grupo-1
+Personajes de terror
