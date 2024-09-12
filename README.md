@@ -6,5 +6,5 @@ INTEGRANTES:
 -
 - Krotter Ricardo David
 - Jeremias Nehuen Mastroianni
--
+- Rodriguez Juan
 -
