@@ -4,7 +4,7 @@ Personajes de terror
 INTEGRANTES: 
 
 -
--
+- Krotter Ricardo David
 - Jeremias Nehuen Mastroianni
 -
 -
